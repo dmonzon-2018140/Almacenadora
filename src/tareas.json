@@ -1,0 +1,28 @@
+{
+    "tareas": [
+        {
+            "title": "Explorador",
+            "description": "Impulso",
+            "date": "1-4-23",
+            "date2": "3-4-23",
+            "estado": "Completo",
+            "responsible": "Mina Menken"
+        },
+        {
+            "title": "Explorador",
+            "description": "Impulso",
+            "date": "1-4-23",
+            "date2": "3-4-23",
+            "estado": "Completo",
+            "responsible": "Mina Menken"
+        },
+        {
+            "title": "Explorador",
+            "description": "Impulso",
+            "date": "1-4-23",
+            "date2": "3-4-23",
+            "estado": "Completo",
+            "responsible": "Mina Menken"
+        }
+    ]
+}
